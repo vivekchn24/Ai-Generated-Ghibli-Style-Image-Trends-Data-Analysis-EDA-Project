@@ -1,4 +1,4 @@
-# **Ai-Generated-Ghibli-Style-Image-Trends - Exploratory Data Analysis (EDA) Project**
+# **Ai-Generated-Ghibli-Style-Image-Trends -(EDA) Project**
 
 # Ai-Generated-Ghibli-Style-Image-Trends-Data-Analysis-EDA-Project
 
