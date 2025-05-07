@@ -72,10 +72,10 @@ Compare different AI image generation models based on engagement metrics.
    - Formatting and type conversion
 
 2. Univariate Analysis
-   - Distributions of loan amount, interest rates, term, grades
+   - Distributions of Likes,shares,comments etc.
 
 3. Bivariate Analysis
-   - Loan status vs interest rate, loan purpose, etc.
+   - Prompt vs Likes, Shares,Comments, etc.
 
 4. Multivariate Analysis
    - Correlation heatmaps
