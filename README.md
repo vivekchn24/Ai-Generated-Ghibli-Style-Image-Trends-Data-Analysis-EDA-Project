@@ -1,8 +1,9 @@
-# **-->> Ai-Generated-Ghibli-Style-Image-Trends - Exploratory Data Analysis (EDA) Project**
+# **Ai-Generated-Ghibli-Style-Image-Trends - Exploratory Data Analysis (EDA) Project**
 
 # Ai-Generated-Ghibli-Style-Image-Trends-Data-Analysis-EDA-Project
 
 - This dataset captures trends in AI-generated Studio Ghibli-style images, including user engagement, generation metrics, and platform-specific interactions. It is designed to help researchers, data scientists, and AI enthusiasts analyze the impact of AI-generated art on social media and the performance of AI models in generating high-quality images.
+
 ## **Disclaimer:** 
 
 - This dataset is entirely synthetic and was generated using AI. It does not represent real users, platforms, or engagement data. It is intended for research and educational purposes only.
